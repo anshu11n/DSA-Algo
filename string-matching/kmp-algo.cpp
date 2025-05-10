@@ -2,6 +2,7 @@
 using namespace std;
 #define ll long long
 
+// KMP ALgo
 // O(n+m)
 // p - pattern, s-string
 
